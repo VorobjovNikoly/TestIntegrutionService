@@ -7,7 +7,7 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "revision": 10
+    "revision": 11
   },
   "object": {
     "parent": {
@@ -23,23 +23,16 @@
     "properties": [],
     "elements": [],
     "history": {
-      "created": "2020-11-13T14:03:39.653",
+      "created": "2020-12-02T21:19:12.257",
       "createdBy": "m.vorobiov@spd-ukraine.com",
-      "updated": "2020-12-02T21:19:11.53",
-      "updatedBy": "unknown",
-      "mirrored": "2020-11-23T15:06:10.673",
+      "updated": "2020-12-02T21:19:31.677",
+      "updatedBy": "m.vorobiov@spd-ukraine.com",
       "completions": [
         {
           "status": "Finalized",
-          "completed": "2020-11-13T14:04:50.927",
+          "completed": "2020-12-02T21:19:30.963",
           "completedBy": "m.vorobiov@spd-ukraine.com",
-          "completedByMessage": "/organizations/BackendTestOrg/systems/a/applications/aa/issues/5363/messages/2"
-        },
-        {
-          "status": "Approved",
-          "completed": "2020-11-13T14:05:05.487",
-          "completedBy": "m.vorobiov@spd-ukraine.com",
-          "completedByMessage": "/organizations/BackendTestOrg/systems/a/applications/aa/issues/5363/messages/2"
+          "completedByMessage": "/organizations/BackendTestOrg/systems/a/applications/aa/issues/5393/messages/1"
         }
       ]
     },
