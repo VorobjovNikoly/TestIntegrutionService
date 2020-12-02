@@ -19,18 +19,18 @@
     "access": "External",
     "properties": [],
     "history": {
-      "created": "2020-12-02T11:20:38.107",
+      "created": "2020-12-02T11:45:45.343",
       "createdBy": "m.vorobiov@spd-ukraine.com",
-      "updated": "2020-12-02T11:20:38.107",
+      "updated": "2020-12-02T11:45:45.343",
       "updatedBy": "m.vorobiov@spd-ukraine.com",
       "completions": []
     },
     "alias": ""
   },
   "integration": {
-    "url": "https://VorobjovNikolay@bitbucket.org/VorobjovNikolay/backendtest.git",
-    "user": "icsEGQaNRpjUpIIFOOPguXOtUWhueegtACVxpT8K9h0E3AT9Tdqxxa9P5kuaN9CmGh2OXoAUY8Empd2kIvhvmGRBek740kX9AmNprXlP/6Oucg0JOLMjOfQau3I7McxhI1AKw1UEriwdnso9+m5r4cKvXg5bA7EQeo9O2iM90MXxORWlV8/ydxBBZtIdOdYW7EIkhEr74egVxUiMh/+oDRNCq2ICGpOZsXet2kHJHylKlvdOyU6Rc7TNd9EihWCQLl/nrJ0kRXTK4RJzk8ys9mFk87HIhH8ejXxPJtNNTo1iJMfR5w1TakegeQ1p9EWTfuWtvsi5+h/ZwtPEQBCjQQ==",
-    "password": "Cp6NEKbnKHPiBGVx8ABO1XZB5cbs9gmJi+kBIwqnK4B3xGwhVYYAu1diLoUkgo032FfuN2AsgEKaUXf2qJvvn3jjY+sMLTBPN0iqETq2rlkk5iEh+XUCIk12iRR+DBqO8D8XLarIcqnMPsrED5eFo/Fb757UCtoobKlOBIvKHJVSK/8sV2Ed48tKpZsmHos9aYZtTpNlvf0awq4PUhRh/bjtOrB4vKAOTYiMMeRgdwM9ANlj414tC3JehW7hxM52VzmE3icxsDxhhZJAeZHTXUnFlF9H4um1daNURl2UEImCe747HST0UaRPDUSJoV89wVFTafaMBBlUNTM6IIdCpQ==",
+    "url": "https://github.com/VorobjovNikoly/TestIntegrutionService.git",
+    "user": "uc0qNQjWboUfZYAgypcpqiVn2d7tusve8NxozPcPeCjNjO1Z3gRuCmW3wkS/5y82fPUd0eXS9GK1cvPBH9cuJw0dRiZBVmABdp3+oNanfMfZGvZQlPhqzziGtE4WE/3mGs3JtyjsN8p/5CmKYzli9d8fbFwVFn0oQBsv9badzUJSpKdvfrDMpBnPcgzzwc/kVSk40HsmDiY7XfevcLR5ycsl9y9UnVAyoFvOndcdslnKwmOEYdmiwCFQSKUiUTsn6vmC8UVXgW+Q/NZiCssDIxmTt487BqFIJGR8ENKvFIsGzon8RjtR+y1QK/lAI5KeOuUYoFMacbzVuTF4V8v4XQ==",
+    "password": "qFugFtEJKE8DUUsXERCZRtP8T+EE+TNqpDcK/QrhOXiu6daw+XCJaG0BVSmk0koW7AU9EvBLz+CzdDbbrSl1Bz6ytF/b4o+1Gx9nw1v+VXXSHuJu0zYK/+i02Jly9JQJsI4Hfp5fPUXl1xH/L5z99NaHosbpi+y2YZhsNftS4COfxg59q1gEv38ZSx2/YDg5VodWPkpBAHHPizpJ7Fxh4K2JAZQi6+oNXQBSp1fv10NpoePxmOrNxeIG+9tnPJSWsN+oVcJAMsfVNMqPda2KcNWjOHkq+m/RS4pUHpDUouf1CCWwMIL5gazYj7YJVudl8gIKeoMhBYX1bnkD6tLS7A==",
     "integration": true,
     "status": ""
   }
