@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "id": "ce5157a1-1218-4daa-84dc-7c50b757a1b2",
+    "name": "ewe"
+  },
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "revision": 0
+  },
+  "object": {
+    "parent": {
+      "id": "e9bbe70d-2bf7-46de-8eb6-e05359d66680",
+      "name": "/organizations/LockalDBTest/systems/sys/applications/sys"
+    },
+    "tags": [],
+    "documents": [],
+    "type": "DataSet",
+    "usage": "Resource",
+    "properties": [],
+    "history": {
+      "created": "2020-12-07T22:00:03.01",
+      "createdBy": "m.vorobiov@spd-ukraine.com",
+      "updated": "2020-12-07T22:00:42.187",
+      "updatedBy": "m.vorobiov@spd-ukraine.com",
+      "completions": [
+        {
+          "status": "Finalized",
+          "completed": "2020-12-07T22:00:33.01",
+          "completedBy": "m.vorobiov@spd-ukraine.com",
+          "completedByMessage": "/organizations/LockalDBTest/systems/sys/applications/sys/issues/5391/messages/2"
+        },
+        {
+          "status": "Approved",
+          "completed": "2020-12-07T22:00:42.15",
+          "completedBy": "m.vorobiov@spd-ukraine.com",
+          "completedByMessage": "/organizations/LockalDBTest/systems/sys/applications/sys/issues/5391/messages/2"
+        }
+      ]
+    },
+    "lastApprovedVersion": {
+      "major": 1,
+      "minor": 0,
+      "revision": 0
+    }
+  },
+  "external": true,
+  "structure": {
+    "fields": [
+      {
+        "identity": {
+          "id": "7d87fffb-bb6e-472c-a4c8-0aec467e4b52",
+          "name": "ewe",
+          "description": ""
+        },
+        "order": 1,
+        "usage": "Property",
+        "count": 1,
+        "type": "String",
+        "size": 0,
+        "optional": true,
+        "value": "",
+        "format": "",
+        "access": 255,
+        "privacy": "low"
+      }
+    ],
+    "keys": []
+  },
+  "layouts": [],
+  "data": {
+    "records": [],
+    "examples": []
+  }
+}

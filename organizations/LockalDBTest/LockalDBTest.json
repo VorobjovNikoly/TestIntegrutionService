@@ -11,19 +11,19 @@
     "access": "External",
     "properties": [],
     "history": {
-      "created": "2020-12-07T22:03:49.45",
+      "created": "2020-12-07T22:16:14.03",
       "createdBy": "m.vorobiov@spd-ukraine.com",
-      "updated": "2020-12-07T22:03:49.45",
-      "updatedBy": "unknown",
+      "updated": "2020-12-07T22:16:14.03",
+      "updatedBy": "m.vorobiov@spd-ukraine.com",
       "completions": []
     },
     "alias": ""
   },
   "integration": {
-    "url": "https://VorobjovNikoly:42gidehe@github.com/VorobjovNikoly/TestIntegrutionService.git",
+    "url": "https://github.com/VorobjovNikoly/TestIntegrutionService.git",
     "user": "G4Z7vjUEa+golLfS2LjZ9CYvROQJAzKtqDn9NFbLa9TSWHSviAynZBs0+tMi8kNe8L6t2YGvIqZ3Q8t/t5y+PZC0T/A2h7jg0jiiNfZaUwQQx61kfV75LGgdZ0jKeCXhyLW9BYfkrzZMem/pAo3QdxztIF0yvsZ/vyMeJ5/okPKbxxE8vXGHvj+mZ8hZojBWoYEnLBpF4r00VOSZD8CeevvP7KPd8qVQf83spXKbKBHF45y6mZXtps3OE8SWI6pPO3dXEHwzK6rvSIqY69G+JCFhEOM45cec/ALbIkg44sRLN36HNHDM2nRNxvLSzoQO2YuK0hJY0kP6zZkEAmWRjg==",
     "password": "CpS3U2or10r/x8LRCQGSUu/ELbVo7YEneJXSiJiePUikA8kV4sQEhAvmdSOu9Fyix9Ak8B0+VeCz3QRmLJ6ubcuFXZCduQe825+bPnyM9aHDIPTV/SokLNUsHjoQhBHgrpL/KoCs5BVR59LJprC0sHlm0gWT3u/Z6js0JCUMbZ3v0Wz6wC8s2hqpZ+yPnF70xJBOYQMGoPXTlkaVHcSPFbeq2XF2qAoRUCCf79fwankyDBdXfPbKNELt7OJlxiItaoM8fbOmgswsoMmUpgqEllkZN/VZVlSEDxndipoWZ6Bb8aUZAtrBeCsyQHG7YtrDh7Mk1UdQeDSvHKcrG7kzOQ==",
     "integration": false,
-    "status": ""
+    "status": "Ссылка на объект не указывает на экземпляр объекта."
   }
 }
