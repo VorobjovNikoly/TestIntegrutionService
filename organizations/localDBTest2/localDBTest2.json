@@ -11,10 +11,10 @@
     "access": "External",
     "properties": [],
     "history": {
-      "created": "2020-12-07T22:23:22.427",
+      "created": "2020-12-07T22:25:25.863",
       "createdBy": "m.vorobiov@spd-ukraine.com",
-      "updated": "2020-12-07T22:23:22.427",
-      "updatedBy": "m.vorobiov@spd-ukraine.com",
+      "updated": "2020-12-07T22:25:25.863",
+      "updatedBy": "unknown",
       "completions": []
     },
     "alias": ""
@@ -23,6 +23,7 @@
     "url": "https://VorobjovNikoly:42gidehe@github.com/VorobjovNikoly/TestIntegrutionService.git",
     "user": "W8rCfOlWoVFtun8s2B5EDMJNl9RfuVdQpZnnZ/8f2a/nc71zSARHbElQg1yVyr37qKH1n9NdNrbBY8RPiWtGwD4nv443zc/Xm0xtnLxTENUAqrsqZh6P7qDbIBWgXIdSAPL2J6iA6j9wl9N1aNi3E7eRNwXuTueKQME+OSBsjCcpoIxLW3+bhwqQvSFEuUu7XUUEWYSpFfqqN7m2dIphrpDh5jHex9d6FNEXwoSxLMJtL4vB0An+qsWLcjZXdy/IWgL2XkdnooUqh8UAfXau+Ie+AIxHDGZkG7TENG1pP/v/g081QNNl+NLVYF7IwHOtHbgW3gOpolW5aWfZlyMBSw==",
     "password": "JzgCdNZIGh+0dKePofI+Wi/DtllfjxxyIo0g+lRA2v/SnwifBAAeM+kPGSIvwWkcvEpmcXT7somIkATSHqXD4UKxwcnR3g98Zz10Kz3mJ8oITrkiz0nBq+OPmpLHRZY+cXxf/NTIeBBzPIQIK043qmszkAz/0uoS89ZRl3ZAXWRL/wPCdPTzrr8X+9G8PsytrseYOz9xar6GgWc+lrjo9kuu5xnoLxkqj8pQBU6gSHh0SqGUu/0fXDyzW0P4BO+iowsaO31HU1rSIVopvL4I6yly5KCa3Kyw8+PQnvhxZp+s/mS6RdSX0gS70vplPMQbhymhWKHSKfiIxSRYtFB/+A==",
-    "integration": false
+    "integration": false,
+    "status": ""
   }
 }
