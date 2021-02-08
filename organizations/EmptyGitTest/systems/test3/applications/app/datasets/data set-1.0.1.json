@@ -24,8 +24,9 @@
     "history": {
       "created": "2021-01-29T06:25:37.203",
       "createdBy": "m.vorobiov@spd-ukraine.com",
-      "updated": "2021-01-29T06:26:41.063",
-      "updatedBy": "m.vorobiov@spd-ukraine.com",
+      "updated": "2021-01-29T06:28:16.23",
+      "updatedBy": "unknown",
+      "mirrored": "2021-01-29T06:26:54.327",
       "completions": [
         {
           "status": "Finalized",
@@ -44,7 +45,7 @@
     "lastApprovedVersion": {
       "major": 1,
       "minor": 0,
-      "revision": 1
+      "revision": 2
     },
     "alias": ""
   },
